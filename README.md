@@ -3,7 +3,23 @@
 **System & Network Administrator · Network Operations & Support** · İstanbul, Türkiye
 **Sistem ve Ağ Yöneticisi · Network Operasyon ve Destek**
 
-[LinkedIn](https://www.linkedin.com/in/emirvatandaslar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-emirvatandaslar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirvatandaslar)
+![Network](https://img.shields.io/badge/Network-Juniper%20%7C%20Cisco%20%7C%20BGP-1f6feb)
+![Linux](https://img.shields.io/badge/Linux-Alma%20%7C%20Rocky%20%7C%20Ubuntu-FCC624?logo=linux&logoColor=black)
+![Virtualization](https://img.shields.io/badge/Virtualization-VMware%20%7C%20Proxmox%20%7C%20Ceph-696969)
+![Hosting](https://img.shields.io/badge/Hosting-cPanel%20%7C%20Plesk%20%7C%20LiteSpeed-ff6c2c)
+![Automation](https://img.shields.io/badge/Automation-Bash%20%7C%20Ansible%20%7C%20Python-3776AB?logo=python&logoColor=white)
+
+## 🚀 Featured projects / Öne çıkan projeler
+
+| Project | What it does / Ne yapar |
+|---|---|
+| [**datacenter-capacity-planner**](https://github.com/emirvatandaslar/datacenter-capacity-planner) | Python CLI: rack power, cooling and space planning (tested, CI) / Kabin güç, soğutma ve alan planlama |
+| [**network-config-templates**](https://github.com/emirvatandaslar/network-config-templates) | Juniper Junos & Cisco IOS templates (BGP, VLAN, LACP, RE filter) + runbooks / Şablonlar ve rehberler |
+| [**ddos-monitoring-toolkit**](https://github.com/emirvatandaslar/ddos-monitoring-toolkit) | FastNetMon hooks, DNSBL checker, DDoS & delisting runbooks (CI) / DDoS, izleme ve IP itibarı |
+| [**ansible-server-baseline**](https://github.com/emirvatandaslar/ansible-server-baseline) | Ansible baseline: packages, chrony, SSH hardening, backups (CI) / Temel sunucu yapılandırması |
+| [**cpanel-migration-toolkit**](https://github.com/emirvatandaslar/cpanel-migration-toolkit) | Dry-run-first cPanel account migration + pre-DNS verification / cPanel hesap taşıma |
+| [**virtualization-storage-cheatsheets**](https://github.com/emirvatandaslar/virtualization-storage-cheatsheets) | VMware, Proxmox, Ceph, ZFS, RAID cheat sheets / Not defterleri |
 
 ## 🇬🇧 About me
 
